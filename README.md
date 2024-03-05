@@ -1,4 +1,5 @@
 # Coffee shop recommendation
+## Description
 A Mandarin coffee shop recommendation system using tf-idf and Google Maps data, considering factors like emotion scores, keywords using, solving Google Maps comment keywords problems.
 
 The website is developed with Vue.js and PostgreSQL.
