@@ -7,12 +7,14 @@ This is the final project from the National Taiwan University IRTM class.
 
 
 ## Demo video
+https://www.youtube.com/watch?v=leegdkvli_Q
+
 The website demo starts from 5:47
 [![Everything Is AWESOME](https://i.imgur.com/99JkqDa.png)](https://www.youtube.com/watch?v=leegdkvli_Q-Y "Everything Is AWESOME")
 
 ## Authors
 - [TehTing](https://github.com/TehTing)
-- And also the other three members to create the model together! I will put them on if I get their Github Information.
+- And also the other awesome three members to create the model together! I will put them on if I get their Github Information.
 
 ## Constucts
 
