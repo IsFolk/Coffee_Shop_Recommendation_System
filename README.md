@@ -12,7 +12,7 @@ The website demo starts from 5:47
 
 ## Authors
 - [TehTing](https://github.com/TehTing)
-And also the other three members to create the model together! I will put them on if I get their Github Information.
+- And also the other three members to create the model together! I will put them on if I get their Github Information.
 
 ## Constucts
 
