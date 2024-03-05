@@ -1,0 +1,112 @@
+{
+    "query_label":["label_1", "label_2", "label_3"],
+    "stores": [
+      {
+        "link":"https:\/\/www.google.com\/maps\/place\/%E6%A5%B5%E7%B0%A1%E5%92%96%E5%95%A1%E9%A4%A8\/data=!4m7!3m6!1s0x3442a985b94cb44f:0xec3aa5fdb4eaa278!8m2!3d25.025603!4d121.529569!16s%2Fg%2F11btvg8xr3!19sChIJT7RMuYWpQjQReKLqtP2lOuw?authuser=0&hl=zh-TW&rclk=1",
+        "id": 0,
+        "name": "極簡咖啡館",
+        "time": "星期日 12:00 到 21:00; 星期一、休息; 星期二 12:00 到 21:00; 星期三 12:00 到 21:00; 星期四 12:00 到 21:00; 星期五 12:00 到 21:00; 星期六 12:00 到 21:00",
+        "address": "106台北市大安區泰順街2巷42號",
+        "phone": "02 2362 9734",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipO6ZUPIjLuYO1Th3Wgezx_Zazf8i1EKSF6Bgdv5=w408-h306-k-no",
+        "website": "https://www.facebook.com/貓孩在極簡極簡咖啡館-271265149663167/",
+        "star": "4.2",
+        "review_num": "review_num",
+        "labels": ["label1", "label2", "label3"]
+      },
+      {
+        "link":"https:\/\/www.google.com\/maps\/place\/%E7%BF%8C%E6%97%A5%E5%92%96%E5%95%A1%E5%BA%97\/data=!4m7!3m6!1s0x3442a9c1d44156eb:0x5f69863e33c07d89!8m2!3d25.0283112!4d121.529752!16s%2Fg%2F11rfr7vjcq!19sChIJ61ZB1MGpQjQRiX3AMz6GaV8?authuser=0&hl=zh-TW&rclk=1",
+        "id": 1,
+        "name": "翌日咖啡店(示範預設圖片)",
+        "time": "星期日 13:00 到 01:00; 星期一 13:00 到 01:00; 星期二 13:00 到 01:00; 星期三 13:00 到 01:00; 星期四 13:00 到 01:00; 星期五 13:00 到 01:00; 星期六 13:00 到 01:00",
+        "address": "106台北市大安區溜滄街176號",
+        "phone": "",
+        "img": "https://lh5.googleusercontent.com/p/",
+        "website": "https://www.facebook.com/翌日咖啡店-101422498669426/",
+        "star": "4.6",
+        "review_num": "review_num",
+        "labels": ["label1", "label2", "label3"]
+      },
+      {
+        "link":"https:\/\/www.google.com\/maps\/place\/%E6%9C%AA%E5%A4%AE%E5%92%96%E5%95%A1%E5%BA%97\/data=!4m7!3m6!1s0x3442aa2dec922001:0xf1592a50aa99e9f9!8m2!3d25.0262375!4d121.5474209!16s%2Fg%2F11bxdxmh6m!19sChIJASCS7C2qQjQR-emZqlAqWfE?authuser=0&hl=zh-TW&rclk=1",
+        "id": 2,
+        "name": "未央咖啡店",
+        "time": "星期日 13:00 到 01:00; 星期一 13:00 到 01:00; 星期二 13:00 到 01:00; 星期三 13:00 到 01:00; 星期四 13:00 到 01:00; 星期五 13:00 到 01:00; 星期六 13:00 到 01:00",
+        "address": "106台北市大安區四維路208巷10號",
+        "phone": "02 2703 2331",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOiKO830lExUPK9nqScCcv9YSHXFEZl-6LTpC4h=w408-h307-k-no",
+        "website": "https://www.facebook.com/BCmidnightcafe/",
+        "star": "4.1",
+        "review_num": "review_num",
+        "labels": ["label1", "label2", "label3"]
+      },
+      {
+        "link": "https://www.google.com/maps/place/%E5%B8%83%E6%8B%89%E6%A0%BC%E5%92%96%E5%95%A1%E9%A4%A8/data=!4m7!3m6!1s0x3442a985f35a612f:0x74ed2cfee205a613!8m2!3d25.023926!4d121.533218!16s%2Fg%2F12qfy7gnp!19sChIJL2Fa84WpQjQRE6YF4v4s7XQ?authuser=0&hl=zh-TW&rclk=1",
+        "id": 3,
+        "name": "布拉格咖啡館",
+        "time": "星期日、14:00 到 23:30; 星期一、14:00 到 23:30; 星期二、休息; 星期三、14:00 到 23:30; 星期四、14:00 到 23:30; 星期五、14:00 到 23:30; 星期六、14:00 到 23:30",
+        "address": "106台北市大安區溫州街20號",
+        "phone": "02 2369 7722",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOydb7SdGAiQw2pq1ZucIx-omK-YRL5YcMmqduZ=w408-h272-k-no",
+        "website": "",
+        "star": 4.7
+      },
+      {
+        "link": "https://www.google.com/maps/place/%E6%AC%92%E6%A8%B9%E4%B8%8B%E6%9B%B8%E6%88%BF%2F%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a98626ee9f21:0xc119f826725242ec!8m2!3d25.023319!4d121.533193!16s%2Fg%2F11c0p_wr4v!19sChIJIZ_uJoapQjQR7EJScib4GcE?authuser=0&hl=zh-TW&rclk=1",
+        "id": 4,
+        "name": "欒樹下書房/咖啡",
+        "time": "星期日、10:30 到 21:00; 星期一、10:30 到 21:00; 星期二、10:30 到 23:30; 星期三、10:30 到 23:30; 星期四、10:30 到 23:30; 星期五、10:30 到 23:30; 星期六、10:30 到 23:30",
+        "address": "106台北市大安區溫州街24號",
+        "phone": "02 2369 3333",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipMG0rHTgFzuGapR9FLqXPpYF2NIcwWG5xI8dXng=w408-h306-k-no",
+        "website": "https://www.facebook.com/editorsbookscafe/",
+        "star": 4.6
+      },
+      {
+        "link": "https://www.google.com/maps/place/SHOT5+Kapi+%E4%B8%8B%E5%8D%88%E5%92%96%E5%95%A1+%23%E5%92%96%E5%95%A1%E5%90%A7%E6%AA%AF+%23%E6%B7%B1%E5%A4%9C%E5%90%A7%E6%AA%AF+%23%E5%96%AE%E5%93%81%E6%89%8B%E6%B2%96+%23%E5%A5%B6%E8%8C%B6+%23%E8%B2%9D%E6%9E%9C+%23%E5%8F%AF%E9%A0%8C+%23%E7%89%9B%E8%82%89%E6%B9%AF/data=!4m7!3m6!1s0x3442a9942f5aa907:0x56341584711a08a0!8m2!3d25.0244083!4d121.5299752!16s%2Fg%2F11tck6ktyq!19sChIJB6laL5SpQjQRoAgacYQVNFY?authuser=0&hl=zh-TW&rclk=1",
+        "id": 5,
+        "name": "SHOT5 Kapi 下午咖啡 #咖啡吧檯 #深夜吧檯 #單品手沖 #奶茶 #貝果 #可頌 #牛肉湯",
+        "time": "星期日、10:00 到 23:45; 星期一、10:00 到 21:00; 星期二、10:00 到 21:00; 星期三、10:00 到 21:00; 星期四、10:00 到 21:00; 星期五、10:00 到 23:45; 星期六、10:00 到 23:45",
+        "address": "106台北市大安區泰順街40巷23號",
+        "phone": "",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNwLGaNULj-PaMqUNfVC9AMv63j9mkyExiddu_0=w426-h240-k-no",
+        "website": "https://reurl.cc/9p2Xgn",
+        "star": 4.8,
+        "labels": ["label1", "label2", "label3"]
+      },
+      {
+        "link": "https://www.google.com/maps/place/%E9%9B%AA%E5%8F%AF%E5%B1%8B/data=!4m7!3m6!1s0x3442a98969f98ae7:0x775927aa7e75fc48!8m2!3d25.0196006!4d121.5323943!16s%2Fg%2F1tdhbqk2!19sChIJ54r5aYmpQjQRSPx1fqonWXc?authuser=0&hl=zh-TW&rclk=1",
+        "id": 6,
+        "name": "2J 咖啡(測試圖片)",
+        "time": "星期日、11:00 到 00:00; 星期一、12:00 到 00:00; 星期二、12:00 到 00:00; 星期三、12:00 到 00:00; 星期四、休息; 星期五、12:00 到 00:00; 星期六、11:00 到 00:00",
+        "address": "106台北市大安區溫州街74巷3弄2號1樓",
+        "phone": "02 2367 3036",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOsCVQaX69Rax8W_DLQIei3nFR67zBTiRi-p_Id=w408-h543-k-no",
+        "website": "https://cafe-7727.business.site/",
+        "star": 4.3
+      },
+      {
+        "link": "https://www.google.com/maps/place/%E9%80%99%E9%96%93%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442abd33b214b87:0x56fd9ae113171a64!8m2!3d25.0318139!4d121.5447918!16s%2Fg%2F11c4xp36b7!19sChIJh0shO9OrQjQRZBoXE-Ga_VY?authuser=0&hl=zh-TW&rclk=1",
+        "id": 7,
+        "name": "這間咖啡",
+        "time": "星期日、13:00 到 00:00; 星期一、14:00 到 00:00; 星期二、14:00 到 00:00; 星期三、14:00 到 00:00; 星期四、14:00 到 00:00; 星期五、14:00 到 00:00; 星期六、13:00 到 00:00",
+        "address": "106台北市大安區信義路四段30巷39號",
+        "phone": "02 2755 1288",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipPm4ZcKDjQhninrnwKn3ls3yRKXm6fKHoZXz67t=w408-h306-k-no",
+        "website": "https://www.facebook.com/Zhejiancafe/",
+        "star": 4.3
+      },
+      {
+        "link": "https://www.google.com/maps/place/%E7%A7%98%E6%B0%8F%E7%8F%88%E7%90%B2%EF%BC%88%E5%8F%B0%E5%8C%97%E5%BA%97%EF%BC%89/data=!4m7!3m6!1s0x3442a990022d7e65:0x6c54786da01217a2!8m2!3d25.0245288!4d121.5254479!16s%2Fg%2F11g_8t06h!19sChIJZX4tApCpQjQRohcSoG14VGw?authuser=0&hl=zh-TW&rclk=1",
+        "id": 8,
+        "name": "秘氏珈琲（台北店）",
+        "time": "星期日、13:00 到 21:00; 星期一、休息; 星期二、13:00 到 21:00; 星期三、13:00 到 21:00; 星期四、13:00 到 21:00; 星期五、13:00 到 21:00; 星期六、13:00 到 21:00",
+        "address": "106台北市大安區浦城街4巷30號羅斯福路二段117巷底",
+        "phone": "02 8369 1012",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipMbWA1dSMMc27iZ3N6IhVdGC14EBP26rfRlxyfw=w408-h240-k-no-pi0-ya100-ro0-fo100",
+        "website": "https://www.facebook.com/cafechamber",
+        "star": 4.5
+      }
+    ]
+  }
+  
