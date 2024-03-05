@@ -1,0 +1,51 @@
+<!-- templates/index.html -->
+<html>
+<head>
+    <title>Your Index Page</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+</head>
+<style>
+    /* 新增 CSS 樣式，設定最大寬度和最大高度 */
+    #dataList img {
+        max-width: 200px;  /* 替換成您想要的最大寬度 */
+        max-height: 200px; /* 替換成您想要的最大高度 */
+    }
+</style>
+<body>
+    <h1>Search Cafes</h1>
+    <input type="text" id="searchInput" placeholder="Enter search string">
+    <button id="searchButton">Search</button>
+
+    <h2>Data from API</h2>
+    <ul id="dataList"></ul>
+
+    <script>
+        $(document).ready(function() {
+            $('#searchButton').click(function() {
+                var searchString = $('#searchInput').val();  // 獲取用戶輸入的搜索字符串
+                var url = '/your-data-api/' + searchString + '/';
+                $.ajax({
+                    url: url,  // 將搜索字符串附加到 URL 中
+                    type: 'GET',
+                    success: function(data) {
+                        console.log(data)
+                        // 成功接收到數據後，渲染到網頁上
+                        var dataList = $('#dataList');
+                        dataList.empty();
+                        $.each(data.data, function(index, item) {
+                            dataList.append('<li>Cafe ID: ' + item.CafeId + ', Cafe Name: ' + item.CafeName + '</li>');  // 替換成實際的字段名稱
+                            // 檢查是否有 Image 連結
+                             if (item.CafeImage) {
+                                dataList.append('<img src="' + item.CafeImage + '" alt="Cafe Image">');
+                            }
+                        });
+                    },
+                    error: function(error) {
+                        console.error('Error:', error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
