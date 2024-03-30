@@ -17,7 +17,7 @@ The website demo starts from 5:47
 - [TehTing](https://github.com/TehTing)
 - And also the other awesome three members to create the model together! I will put them on if I get their Github Information.
 
-## Constucts
+## Warnings
 
 ### Backend Warning
 If you wanna re-build this project, you should build the backend database based on the CSV file that I provided (All CSV files have different functions so please contact me if you are curious about this, and it's too large to upload to Github).
